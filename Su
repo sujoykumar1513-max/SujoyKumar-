@@ -1,6 +1,6 @@
 {
   "show": true,
-  "force": trus,
+  "force": true,
   "version_name": "11.0.0",
   "version_code": 11,
   "title": "New Update Available! ",
