@@ -1,6 +1,6 @@
 {
   "show": true,
-  "force": true,
+  "force": off,
   "version_name": "8.0.0",
   "version_code": 9,
   "title": "New Update Available! ",
